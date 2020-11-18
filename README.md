@@ -13,6 +13,7 @@ En las próximas 6 semanas se estará trabajando en la adquisición, procesamien
 * Tarjeta de desarrollo FPGA, Nexys4, quacho-basic 
 * Sistema de visualización 
 * Sistema de captura,  sistema manual para iniciar la captura de información
+* IEEE Standard for Verilog y ECSS-Q-ST-60-02C
 
 En resumen se muestra la configuración del dispositivo que se implementará.
 
